@@ -47,6 +47,7 @@ ul {
 
 h1 {
     font-size: 44px;
+    font-family: "Arial Black";
     width: 271px;
     height: 42px;
     float: left;
@@ -54,7 +55,7 @@ h1 {
     margin-top: 12px;
     margin-bottom: 8px;
     padding: 0;
-    line-height: 0.8;
+    line-height: 0.75;
 }
 
 .title ul {
@@ -91,13 +92,13 @@ h1 {
 
 
 .btn{
-    font-size: 12pt;
+    font-size: 14px;
     box-sizing: border-box;
     border: 1px #778A50 solid;
     background: #EDF2C5;
-    font-family: "Arial Bold";
+    font-family: "Arial BoldMT",sans-serif;
     text-align: center;
-    line-height: 1.5;
+    line-height: 1.7;
 }
 
 .btn a {
@@ -196,6 +197,7 @@ p {
     height: 124px;
     width: 430px;
     background: #F7FBDA;
+    color:#7D7D7D;
     padding-left: 15px;
     padding-top: 16px;
     margin: 0;
